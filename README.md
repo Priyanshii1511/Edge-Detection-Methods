@@ -1,0 +1,1 @@
+Edge Detection is a method of segmenting an image into regions of discontinuity. Edge Detection techniques are used for image processing. Various techniques have been implemented using a sample image.
